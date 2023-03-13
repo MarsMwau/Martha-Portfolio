@@ -1,11 +1,9 @@
-# Name of the Project Portfolio
+ Project Portfolio
 *****
-### Author : MARTHA MWAU
+MARTHA MWAU
 ****
-## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Project Description
+This a basic portfilio that is due for some changes soon.
 ******
 
 ## SCREENSHOTS
@@ -22,7 +20,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * [Testing Platform](Platform URL)
 
 
-### Getting Files
+Getting Files
 * Fork the repo
 - Create a new branch in your terminal (git checkout -b improve-feature)
 - Install the prerequisites
@@ -33,7 +31,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - Create a Pull request
 * Open the folder location on terminal and use the following command to run app:
 
-## How To Run It
+How To Run It
 >  $ pip install -r requirements.txt
 To install all requirements
 
@@ -41,7 +39,7 @@ To install all requirements
 Then run server with the above command
 *****
 ## Live Link
-Or you can access the web application directly via this [LINK.](link.com/)
+Or you can access the web application directly via this [https://martha-mwau-portfolio.netlify.app/]
 *****
 ## Dependencies
 - Package Name
@@ -51,10 +49,9 @@ Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Technologies Used
 1. HTML
-2. MdBootstrap
-3. HTML
-4. CSS
-5. JavaScript
+2. HTML
+3. CSS
+4. JavaScript
 *****
 ## Contact Information
 * Email : marthamumbua16@gmail.com
